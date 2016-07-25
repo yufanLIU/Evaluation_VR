@@ -1,0 +1,18 @@
+Natural Scene Statistics for JPEG2K;NSS;No-reference quality assessment using natural scene statistics: JPEG2000;H. R. Sheikh, A. C. Bovik, L. Cormack;IEEE Transactions. on Image Processing, vol. 14, no. 11,Nov. 2005, pp. 1918–1927;http://live.ece.utexas.edu/research/Quality/index.htm;Downloaded Code
+No reference JPEG;nrjpeg;No-Reference Perceptual Quality Assessment of JPEG Compressed Images;Z. Wang, H. R. Sheikh, A. C. Bovik;IEEE International Conference on Image Processing, vol. 1, September. 2002, pp. I-477- I-480.;http://www.cns.nyu.edu/~zwang/files/research/nr_jpeg_quality/;Downloaded Code
+Variance;Var;An automatic focusing and astigmatism correction system for the SEM and CTEM;S. Erasmus, K. Smith;J. Microscopy, vol. 127, pp. 185–199, 1982;-;Implemented Code
+Spectrum;spectrum;Comparison of autofocus methods for automated microscopy;L. Firestone, K. Cook, N. Talsania, K. Preston;Cytometry, vol. 12, pp. 195–206, 1991;-;Implemented Code
+Laplacian;lap;Autofocusing and Astigmatism Correction in the Scanning Electron Microscope;C. F. Batten;M.Phil. thesis, Univ. Cambridge, Cambridge, U.K., 2000;-;Implemented Code
+Gradient;grad;Autofocusing and Astigmatism Correction in the Scanning Electron Microscope;C. F. Batten;M.Phil. thesis, Univ. Cambridge, Cambridge, U.K., 2000;-;Implemented Code
+Auto correlation;auto;Autofocusing and Astigmatism Correction in the Scanning Electron Microscope;C. F. Batten;M.Phil. thesis, Univ. Cambridge, Cambridge, U.K., 2000;-;Implemented Code
+Marichal metric;marichal;Blur determination in the compressed domain using DCT information;X. Marichal, W. Ma, H. J. Zhang;Proc. IEEE Int. Conf. Image Processing, Oct. 1999, vol. 2, pp. 386–390.;-;Implemented Code
+Kurtosis based Metric by Zhang;zhang;A kurtosis-based statistitcal measure for two-dimensional processes and its application to image sharpness;N. Zhang, A. Vladar, M. Postek, and B. Larrabee;Proceedings Section of Physical and Engineering Sciences of American Statistical Society, 2003, pp. 4730–4736;-;Implemented Code
+Marziliano Metric;marziliano;Perceptual blur and ringing metrics: Applications to JPEG2000;P. Marziliano, F. Dufaux, S. Winkler, and T. Ebrahimi;Signal Process.: Image Communications., vol. 19, no. 2, pp. 163–172, Feb. 2004;-;Implemented Code
+HP metric;hp;Sharpness measure: Towards automatic image enhancement;D. Shaked, I. Tastl;Proceedings of IEEE International Conference on Image Processing, Sep. 2005,vol. 1, pp. 937–940;-;Implemented Code
+Kurtosis of Wavelet Coefficients;wavelet; A robust image sharpness metric based on kurtosis measurement of wavelet coefficients;R. Ferzli, L. J. Karam, J. Caviedes;Proceedings of the 1st International Workshop on Video Processing and Quality Metrics for Consumer Electronics, 2005;-;Code obtained from Authors
+Riemannian Tensor based metric;riem;A No Reference Objective Sharpness metric using Riemannian Tensor;R. Ferzli, L. J. Karam;Third International Workshop on Video Processing and Quality Metrics for Consumer Electronics VPQM-07, Scottsdale, Arizona, Jan. 25 – 26, 2007;-;Implemented Code
+Just Noticeable Blur;jnbm;A No-Reference Objective Image Sharpness Metric Based on the Notion of Just Noticeable Blur (JNB);R. Ferzli, L. J. Karam;IEEE TRANSACTIONS ON IMAGE PROCESSING, VOL. 18, NO. 4, pp. 717-728, APRIL 2009;http://ivulab.asu.edu;Downloaded Reference Code
+Cumulative Probability Blur Detection;cpbd;A No-Reference Perceptual Image Sharpness Metric Based on the Cumulative Probability of Blur Detection;N. Narvekar and L. J. Karam;First International Workshop on Quality of Multimedia Experience (QoMEX), July 2009;http://ivulab.asu.edu;Code obtained from Authors
+
+
+

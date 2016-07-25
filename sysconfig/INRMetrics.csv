@@ -1,0 +1,16 @@
+Natural Scene Statistics,NSS
+NR Jpeg,nrjpeg
+Variance,var
+Spectrum,spectrum
+Laplacian,lap
+Gradient,grad
+Auto correlation,auto
+Marichal metric,marichal
+Kurtosis based Metric by Zhang,zhang
+Marziliano Metric,marziliano
+HP metric,hp
+Kurtosis of Wavelet Coefficients,wavelet
+Riemannian Tensor based metric,riem
+Just Noticeable Blur,jnbm
+Cumulative Probability Blur Detection, cpbd
+

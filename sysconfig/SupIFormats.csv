@@ -1,0 +1,6 @@
+JPEG,*.jpg,*.jpeg
+TIFF,*.tiff
+BMP,*.bmp
+PNG,*.png
+YUV,*.yuv
+Luminance only,*.y

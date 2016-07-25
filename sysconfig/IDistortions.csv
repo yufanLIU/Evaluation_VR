@@ -1,0 +1,8 @@
+Gaussian Blur,GBlur
+Motion Blur,MBlur
+Circular Averaging filter,DBlur
+Averaging filter,ABlur
+Custom Blur filter,CBlur
+Gaussian Noise, GNoise
+Poisson Noise,PNoise
+Salt and Pepper Noise,SNPNoise

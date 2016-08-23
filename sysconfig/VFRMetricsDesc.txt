@@ -1,6 +1,0 @@
-General VQM;VQM;A new standardized method for objectively measuring video quality;M. Pinson, S. Wolf;IEEE Transactions on Broadcasting, Vol. 50, No.3, pp. 312-446, September 2004;http://www.its.bldrdoc.gov/vqm/;Modified Reference Code
-Averaged PSNR;psnr;-;-;-;-;Implemented code
-Averaged SSIM;ssim;Image quality assessment: From error visibility to structural similarity;Z. Wang, A. C. Bovik, H. R. Sheikh, E. P. Simoncelli;IEEE Transactions on Image Processing, vol. 13, no. 4, pp. 600-612, Apr. 2004.;http://www.ece.uwaterloo.ca/~z70wang/research/ssim/;Modified reference code
-Averaged VSNR;vsnr;VSNR: A Wavelet-Based Visual Signal-to-Noise Ratio for Natural Images;D.M. Chandler, S.S. Hemami;IEEE Transactions on Image Processing, Volume: 16, Issue: 9 pp. 2284-2298, Sept. 2007;http://foulard.ece.cornell.edu/dmc27/vsnr/vsnr.html;Modified Reference Code
-
-

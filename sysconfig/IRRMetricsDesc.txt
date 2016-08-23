@@ -1,1 +1,0 @@
-Reduced Reference Image Quality Assessment;RRIQA;Reduced-Reference Image Quality Assessment Using A Wavelet-Domain Natural Image Statistic Model;Z. Wang, E. P. Simoncelli;Human Vision and Electronic Imaging X, Proc. SPIE, vol. 5666, San Jose, CA, January 2005;http://www.cns.nyu.edu/~lcv/rriqa/;Downloaded Code
